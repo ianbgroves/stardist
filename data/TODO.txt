@@ -1,0 +1,4 @@
+I have successfully used the demo model available through stardist to generate something from my own data
+
+Now, I need to generate a 3D label map of every cell. 10x magnification may be too low for this. might need 40 or 63.
+
